@@ -1,2 +1,5 @@
 # Ezee-Do
-To-Do application created using Flask
+
+Ezee-Do (Easy-Do) is a To-Do application. 
+It is created using Python's Flask framework which involves CRUD operations.
+
